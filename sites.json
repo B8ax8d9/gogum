@@ -1,0 +1,454 @@
+{
+  "sites": [
+    {
+      "name": "PimpBunny",
+      "search_url": "https://pimpbunny.com/search/?q={query}",
+      "selector": "a[class*='ui-card-link']",
+      "file_selector": "",
+      "link_selector": "",
+      "headers": {},
+      "enabled": true
+    },
+    {
+      "name": "NSFW247",
+      "search_url": "https://nsfw247.to/?s={query}",
+      "selector": ".thumb-wrap a",
+      "file_selector": "",
+      "link_selector": "",
+      "headers": {},
+      "enabled": true
+    },
+    {
+      "name": "TMDb",
+      "search_url": "https://www.themoviedb.org/search?query={query}",
+      "selector": "a.result",
+      "file_selector": "",
+      "link_selector": "",
+      "headers": {},
+      "enabled": true
+    },
+    {
+      "name": "RottenTomatoes",
+      "search_url": "https://www.rottentomatoes.com/search?search={query}",
+      "selector": "search-page-media-row a[data-qa='info-name']",
+      "file_selector": "",
+      "link_selector": "",
+      "headers": {},
+      "enabled": true
+    },
+    {
+      "name": "Youperv",
+      "search_url": "https://youperv.com/search/{query}",
+      "selector": "a",
+      "file_selector": "",
+      "link_selector": "",
+      "headers": {},
+      "enabled": true
+    },
+    {
+      "name": "Pornfap",
+      "search_url": "https://pornfap.org/search/{query}",
+      "selector": "a",
+      "file_selector": "",
+      "link_selector": "",
+      "headers": {},
+      "enabled": true
+    },
+    {
+      "name": "Moannest",
+      "search_url": "https://moannest.com/search/{query}",
+      "selector": "a",
+      "file_selector": "",
+      "link_selector": "",
+      "headers": {},
+      "enabled": true
+    },
+    {
+      "name": "Tnaflix",
+      "search_url": "https://www.tnaflix.com/search/{query}",
+      "selector": "a",
+      "file_selector": "",
+      "link_selector": "",
+      "headers": {},
+      "enabled": true
+    },
+    {
+      "name": "X-video",
+      "search_url": "https://x-video.tube/search/{query}",
+      "selector": "a",
+      "file_selector": "",
+      "link_selector": "",
+      "headers": {},
+      "enabled": true
+    },
+    {
+      "name": "Hornyleak",
+      "search_url": "https://www.hornyleak.tv/search/{query}",
+      "selector": "a",
+      "file_selector": "",
+      "link_selector": "",
+      "headers": {},
+      "enabled": true
+    },
+    {
+      "name": "Findhername",
+      "search_url": "https://findhername.net/search/{query}",
+      "selector": "a",
+      "file_selector": "",
+      "link_selector": "",
+      "headers": {},
+      "enabled": true
+    },
+    {
+      "name": "Thotflix",
+      "search_url": "https://thotflix.com/search/{query}",
+      "selector": "a",
+      "file_selector": "",
+      "link_selector": "",
+      "headers": {},
+      "enabled": true
+    },
+    {
+      "name": "Sheeshfans",
+      "search_url": "https://sheeshfans.com/search/{query}",
+      "selector": "a",
+      "file_selector": "",
+      "link_selector": "",
+      "headers": {},
+      "enabled": true
+    },
+    {
+      "name": "Criollasx",
+      "search_url": "https://criollasx.com/search/{query}",
+      "selector": "a",
+      "file_selector": "",
+      "link_selector": "",
+      "headers": {},
+      "enabled": true
+    },
+    {
+      "name": "Pornoperso",
+      "search_url": "https://pornoperso.com/search/{query}",
+      "selector": "a",
+      "file_selector": "",
+      "link_selector": "",
+      "headers": {},
+      "enabled": true
+    },
+    {
+      "name": "Fpo",
+      "search_url": "https://www.fpo.xxx/search/{query}",
+      "selector": "a",
+      "file_selector": "",
+      "link_selector": "",
+      "headers": {},
+      "enabled": true
+    },
+    {
+      "name": "Pinkclips",
+      "search_url": "https://pinkclips.mobi/search/{query}",
+      "selector": "a",
+      "file_selector": "",
+      "link_selector": "",
+      "headers": {},
+      "enabled": true
+    },
+    {
+      "name": "En",
+      "search_url": "https://en.jable.tv/search/{query}",
+      "selector": "a",
+      "file_selector": "",
+      "link_selector": "",
+      "headers": {},
+      "enabled": true
+    },
+    {
+      "name": "123av",
+      "search_url": "https://123av.com/search/{query}",
+      "selector": "a",
+      "file_selector": "",
+      "link_selector": "",
+      "headers": {},
+      "enabled": true
+    },
+    {
+      "name": "Ashemaletube",
+      "search_url": "https://www.ashemaletube.com/search/{query}",
+      "selector": "a",
+      "file_selector": "",
+      "link_selector": "",
+      "headers": {},
+      "enabled": true
+    },
+    {
+      "name": "Xfree",
+      "search_url": "https://www.xfree.com/search/{query}",
+      "selector": "a",
+      "file_selector": "",
+      "link_selector": "",
+      "headers": {},
+      "enabled": true
+    },
+    {
+      "name": "Pornmz",
+      "search_url": "https://pornmz.com/search/{query}",
+      "selector": "a",
+      "file_selector": "",
+      "link_selector": "",
+      "headers": {},
+      "enabled": true
+    },
+    {
+      "name": "Bestjavporn",
+      "search_url": "https://www.bestjavporn.com/search/{query}",
+      "selector": "a",
+      "file_selector": "",
+      "link_selector": "",
+      "headers": {},
+      "enabled": true
+    },
+    {
+      "name": "Spankbang",
+      "search_url": "https://spankbang.party/search/{query}",
+      "selector": "a",
+      "file_selector": "",
+      "link_selector": "",
+      "headers": {},
+      "enabled": true
+    },
+    {
+      "name": "Teenager365",
+      "search_url": "https://teenager365.to/search/{query}",
+      "selector": "a",
+      "file_selector": "",
+      "link_selector": "",
+      "headers": {},
+      "enabled": true
+    },
+    {
+      "name": "Leakgallery",
+      "search_url": "https://leakgallery.com/search/{query}",
+      "selector": "a",
+      "file_selector": "",
+      "link_selector": "",
+      "headers": {},
+      "enabled": true
+    },
+    {
+      "name": "Thothd",
+      "search_url": "https://thothd.com/search/{query}",
+      "selector": "a",
+      "file_selector": "",
+      "link_selector": "",
+      "headers": {},
+      "enabled": true
+    },
+    {
+      "name": "Eporner",
+      "search_url": "https://www.eporner.com/search/{query}",
+      "selector": "a",
+      "file_selector": "",
+      "link_selector": "",
+      "headers": {},
+      "enabled": true
+    },
+    {
+      "name": "Pornx",
+      "search_url": "https://pornx.to/search/{query}",
+      "selector": "a",
+      "file_selector": "",
+      "link_selector": "",
+      "headers": {},
+      "enabled": true
+    },
+    {
+      "name": "Trendyporn",
+      "search_url": "https://www.trendyporn.com/search/{query}",
+      "selector": "a",
+      "file_selector": "",
+      "link_selector": "",
+      "headers": {},
+      "enabled": true
+    },
+    {
+      "name": "Bubblecum",
+      "search_url": "https://www.bubblecum.cam/search/{query}",
+      "selector": "a",
+      "file_selector": "",
+      "link_selector": "",
+      "headers": {},
+      "enabled": true
+    },
+    {
+      "name": "Slutvids",
+      "search_url": "https://slutvids.net.lv/search/{query}",
+      "selector": "a",
+      "file_selector": "",
+      "link_selector": "",
+      "headers": {},
+      "enabled": true
+    },
+    {
+      "name": "W11",
+      "search_url": "https://w11.hornysimp.com.lv/search/{query}",
+      "selector": "a",
+      "file_selector": "",
+      "link_selector": "",
+      "headers": {},
+      "enabled": true
+    },
+    {
+      "name": "Shareanynudes",
+      "search_url": "https://shareanynudes.com/search/{query}",
+      "selector": "a",
+      "file_selector": "",
+      "link_selector": "",
+      "headers": {},
+      "enabled": true
+    },
+    {
+      "name": "Hornyraw",
+      "search_url": "https://www.hornyraw.com/search/{query}",
+      "selector": "a",
+      "file_selector": "",
+      "link_selector": "",
+      "headers": {},
+      "enabled": true
+    },
+    {
+      "name": "Justporn",
+      "search_url": "https://www.justporn.com/search/{query}",
+      "selector": "a",
+      "file_selector": "",
+      "link_selector": "",
+      "headers": {},
+      "enabled": true
+    },
+    {
+      "name": "Fuckit",
+      "search_url": "https://www.fuckit.cc/search/{query}",
+      "selector": "a",
+      "file_selector": "",
+      "link_selector": "",
+      "headers": {},
+      "enabled": true
+    },
+    {
+      "name": "Coomer",
+      "search_url": "https://coomer.st/search/{query}",
+      "selector": "a",
+      "file_selector": "",
+      "link_selector": "",
+      "headers": {},
+      "enabled": true
+    },
+    {
+      "name": "Internetchicks",
+      "search_url": "https://internetchicks.com/search/{query}",
+      "selector": "a",
+      "file_selector": "",
+      "link_selector": "",
+      "headers": {},
+      "enabled": true
+    },
+    {
+      "name": "Influencersgonewild",
+      "search_url": "https://influencersgonewild.com/search/{query}",
+      "selector": "a",
+      "file_selector": "",
+      "link_selector": "",
+      "headers": {},
+      "enabled": true
+    },
+    {
+      "name": "Borntobefuck",
+      "search_url": "https://borntobefuck.com/search/{query}",
+      "selector": "a",
+      "file_selector": "",
+      "link_selector": "",
+      "headers": {},
+      "enabled": true
+    },
+    {
+      "name": "Dirtyship",
+      "search_url": "https://dirtyship.com/search/{query}",
+      "selector": "a",
+      "file_selector": "",
+      "link_selector": "",
+      "headers": {},
+      "enabled": true
+    },
+    {
+      "name": "Leakedzone",
+      "search_url": "https://leakedzone.com/search/{query}",
+      "selector": "a",
+      "file_selector": "",
+      "link_selector": "",
+      "headers": {},
+      "enabled": true
+    },
+    {
+      "name": "Fapptime",
+      "search_url": "https://fapptime.com/search/{query}",
+      "selector": "a",
+      "file_selector": "",
+      "link_selector": "",
+      "headers": {},
+      "enabled": true
+    },
+    {
+      "name": "Thotchicks",
+      "search_url": "https://thotchicks.com/search/{query}",
+      "selector": "a",
+      "file_selector": "",
+      "link_selector": "",
+      "headers": {},
+      "enabled": true
+    },
+    {
+      "name": "Amateurdoporn",
+      "search_url": "https://www.amateurdoporn.com/search/{query}",
+      "selector": "a",
+      "file_selector": "",
+      "link_selector": "",
+      "headers": {},
+      "enabled": true
+    },
+    {
+      "name": "Prothots",
+      "search_url": "https://prothots.com/search/{query}",
+      "selector": "a",
+      "file_selector": "",
+      "link_selector": "",
+      "headers": {},
+      "enabled": true
+    },
+    {
+      "name": "Whoreshub",
+      "search_url": "https://www.whoreshub.com/search/{query}",
+      "selector": "a",
+      "file_selector": "",
+      "link_selector": "",
+      "headers": {},
+      "enabled": true
+    },
+    {
+      "name": "Videomonstr",
+      "search_url": "https://videomonstr.com/search/{query}",
+      "selector": "a",
+      "file_selector": "",
+      "link_selector": "",
+      "headers": {},
+      "enabled": true
+    },
+    {
+      "name": "Tubeorigin",
+      "search_url": "https://www.tubeorigin.com/search/{query}",
+      "selector": "a",
+      "file_selector": "",
+      "link_selector": "",
+      "headers": {},
+      "enabled": true
+    }
+  ]
+}
