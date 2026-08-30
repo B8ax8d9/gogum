@@ -45,6 +45,7 @@ def generate_search_dashboard(
     results: List[SiteSearchResult],
     output_path: str = "",
     dork_results: list = None,
+    open_browser: bool = False,
 ) -> str:
     """
     Generate an interactive, responsive HTML search dashboard with collapsible site cards,
@@ -700,9 +701,10 @@ def generate_search_dashboard(
     with open(output, "w", encoding="utf-8") as f:
         f.write(html)
 
-    try:
-        webbrowser.open(output.absolute().as_uri())
-    except Exception:
-        pass
+    if open_browser:
+        try:
+            webbrowser.open(output.absolute().as_uri())
+        except Exception:
+            pass
 
     return str(output.absolute())
